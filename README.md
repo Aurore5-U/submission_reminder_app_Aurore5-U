@@ -1,1 +1,1 @@
-# submission_reminder_app_Aurore5-U
+this is  a submission of my individual lab on shell scripting
