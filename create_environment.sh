@@ -75,8 +75,8 @@ Divine, Shell Navigation, not submitted
 Anissa, Shell Basics, submitted
 Kellia, Shell Basics, submitted
 Nkhomotabo, Git, not submitted
-Aurore, python, submitted
-Rolande, python, not submitted
+Aurore, Git, submitted
+Rolande, Shell Navigation, not submitted
 Blessing, Git, submitted
 EOL
 
