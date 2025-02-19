@@ -73,6 +73,11 @@ Chinemerem, Shell Navigation, not submitted
 Chiagoziem, Git, submitted
 Divine, Shell Navigation, not submitted
 Anissa, Shell Basics, submitted
+Kellia, Shell Basics, submitted
+Nkhomotabo, Git, not submitted
+Aurore, python, submitted
+Rolande, python, not submitted
+Blessing, Git, submitted
 EOL
 
 # startup.sh
